@@ -3,6 +3,8 @@ import { askQuestion, type AgentResponse } from "../api/client";
 
 const PLACEHOLDERS = [
   "Como foi o volume de usuários vindos de Search no último mês?",
+  "Como foi o volume de usuários vindos de Organic no último mês?",
+  "Quantos usuários vieram do Facebook no último mês?",
   "Qual dos canais tem a melhor performance? E por quê?",
   "Quais canais de tráfego existem?",
 ];
